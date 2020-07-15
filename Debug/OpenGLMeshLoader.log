@@ -1,0 +1,11 @@
+﻿  OpenGLMeshLoader19.cpp
+C:\Users\hp\Desktop\Collectprojects\nemo_underthesea\nemo_underthesea\TextureBuilder.h(27,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\Collectprojects\nemo_underthesea\nemo_underthesea\TextureBuilder.h(28,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\Collectprojects\nemo_underthesea\nemo_underthesea\OpenGLMeshLoader19.cpp(475,46): warning C4838: conversion from 'bool' to 'GLfloat' requires a narrowing conversion
+C:\Users\hp\Desktop\Collectprojects\nemo_underthesea\nemo_underthesea\OpenGLMeshLoader19.cpp(2205,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\hp\Desktop\Collectprojects\nemo_underthesea\nemo_underthesea\OpenGLMeshLoader19.cpp(2374,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\hp\Desktop\Collectprojects\nemo_underthesea\nemo_underthesea\OpenGLMeshLoader19.cpp(264): warning C4715: 'stack::peek': not all control paths return a value
+GLTexture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGLMeshLoader.vcxproj -> C:\Users\hp\Desktop\Collectprojects\nemo_underthesea\nemo_underthesea\Debug\OpenGLMeshLoader19.exe
